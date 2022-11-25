@@ -1,0 +1,28 @@
+{
+  "id": 0,
+  "register": "25425425425",
+  "name": "Thiago",
+  "lastName": "Henriques",
+  "phone": 84922222222,
+  "email": "thiago@gmail.com",
+  "logradouro": "rua acre",
+  "number": 257,
+  "state": "RN",
+  "country": "Brazil",
+  "zipcode": 59142240
+}
+
+var pessoa = new Pessoa
+            {
+                Id = 519,
+                Register = "25425425425",
+                Name = "Thiago",
+                LastName = "Henriques",
+                Phone = 22222222,
+                Email = "thiago@gmail.com",
+                Logradouro = "rua acre",
+                Number = 257,
+                State = "RN",
+                Country = "Brazil",
+                Zipcode = 59142240
+            };
